@@ -95,4 +95,5 @@
 93. [100L5](https://10015.io/product-finder)
 94. [Indie Launch](https://www.indielaun.ch/)
 95. [Indie Maker List](https://indiemakerlist.com/)
+96. [SitePatent](https://sitepatent.com/)
 
